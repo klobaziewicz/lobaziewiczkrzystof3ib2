@@ -1,2 +1,2 @@
 # lobaziewiczkrzystof3ib2
-projekt 🤣
+projekt
