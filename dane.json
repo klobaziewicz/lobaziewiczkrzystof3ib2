@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "name": "nazwa zadania",
+        "deadline": "2020-11-20",
+        "items": [
+            {
+                "id": 0,
+                "name": "dodanie metody xyz do abc",
+                "done": 0
+            },
+            {
+                "id": 1,
+                "name": "wykonanie xyz",
+                "done": 0
+            },
+            {
+                "id": 2,
+                "name": "wykonanie abc",
+                "done": 0
+            }
+        ]
+    }
+]
